@@ -24,7 +24,7 @@ public:
                     rec[src]= false;
                     return true;
                 }
-            }if(code[v]==2){
+            }else if(code[v]==2){
                 code[src]=2;
                 return true;
                 
