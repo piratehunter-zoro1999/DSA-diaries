@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -16,18 +17,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0841-keys-and-rooms) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 ## Array
 |  |
 | ------- |
