@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool dfs(int src, int des ,vector<vector<int>> & adj,vector<bool> &vis){
-
+        if(src == des) return true;
         vis[src]= true;
 
         for(int v : adj[src]){
-            if(v == des) return true;
+            
             if(!vis[v]){
                 if(dfs(v,des,adj,vis)) return true;
             }
