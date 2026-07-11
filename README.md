@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0841-keys-and-rooms) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0841-keys-and-rooms) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0841-keys-and-rooms) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
