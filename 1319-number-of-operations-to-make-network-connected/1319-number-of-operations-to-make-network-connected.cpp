@@ -16,6 +16,8 @@ public:
         
         int e=connections.size();
 
+        if(e<n-1) return -1;
+
         vector<vector<int>> adj(n);
 
         for(auto e : connections){
@@ -35,12 +37,7 @@ public:
              }
         }
 
-        if(count==1 && e>=n-1) return 0;
-        else if(count>1 && e>=n-1) return count-1;
-
-        return -1;
-
-
+      return count -1;
 
     }
 };
