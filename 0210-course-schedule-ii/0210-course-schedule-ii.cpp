@@ -1,63 +1,37 @@
 class Solution {
 public:
-    bool isCycle(int src ,vector<vector<int>> &adj,vector<bool> &vis,vector<bool> &rec){
-            vis[src]= true;
-            rec[src]= true;
-
-            for(int v :adj[src]){
-                if(!vis[v]){
-                    if(isCycle(v,adj,vis,rec)) return true;
-                }else if(rec[v]){
-                    return true;
-                }
-            }
-            rec[src]=false;
-            return false;
-    }
-
-    void topo(int src,vector<vector<int>> &adj ,stack<int> &s,vector<bool> &vis){
-            vis[src]=true;
-
-            for(int v : adj[src]){
-                if(!vis[v]){
-                     topo(v,adj,s,vis);
-                }
-            }
-            s.push(src);
-    }
-    vector<int> findOrder(int n, vector<vector<int>>& edges) {
-        vector<bool>vis(n,false),rec(n,false);
-
-        vector<vector<int>> adj(n);
-
-        for(auto &edge : edges){
-            int v = edge[0];
-            int u = edge[1];
-
-            adj[u].push_back(v);
-        }
-
-        for(int i =0 ;i<n ; i++){
-            if(!vis[i]){
-                if(isCycle(i,adj,vis,rec)){
-                    return {};
-                }
-            }
-        }
+    vector<int> findOrder(int n, vector<vector<int>>& pre) {
         
-        stack<int> s;
-        vector<bool> check(n,false);
-        for(int i=0 ;i <n ;i++){
-            if(!check[i]){
-                topo(i,adj,s,check);
-            }
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n,0);
+        
+        for(auto p : pre){
+            int v = p[0];
+            int u = p[1];
+
+           adj[u].push_back(v);
+           indegree[v]++;
+        }
+
+        queue<int> q;
+
+        for(int i = 0 ;i < n ;i++ ){
+           if(indegree[i]==0) q.push(i);
         }
         vector<int> ans;
-        while (!s.empty()){
-            ans.push_back(s.top());
-            s.pop();
-        }
+        int processed=0;
+        while(!q.empty()){
+              int u = q.front();
+              q.pop();
+              processed++;
+              ans.push_back(u);
 
-        return ans;
+              for( int v : adj[u]){
+                indegree[v]--;
+                if(indegree[v]==0) q.push(v);
+              }
+        }
+       if(processed == n) return ans;
+       else return {};
     }
 };
