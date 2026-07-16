@@ -1,35 +1,42 @@
 class Solution {
 public:
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n);
 
-    bool isCycle(int src,vector<vector<int>> & edges,vector<bool>&vis,vector<bool> &rec){
+        for(auto p : pre ){
+            int u = p[0];
+            int v = p[1];
 
-        vis[src]=true;
-        rec[src]=true;
+            adj[v].push_back(u);
+            indegree[u]++;
+        } 
+        queue<int> q;
 
-        for(int i = 0 ;i<edges.size();i++){
-            int u = edges[i][1];
-            int v = edges[i][0];
+        for(int i = 0 ;i<n;i++){
+            if(indegree[i]==0){
+                q.push(i);
+            }
+        }
+       int processed = 0;
+        while(!q.empty()){
+     
+             int c = q.front();
+             q.pop();
+             processed++;
 
-            if(u == src){
-                if(!vis[v]){
-                    if(isCycle(v,edges,vis,rec)) return true;
-                }else if(rec[v]){
-                    return true;
+             for(int v : adj[c]){
+                indegree[v]--;
+
+                if(indegree[v]==0){
+                    q.push(v);
                 }
-            }
+             }
+
+             
+
         }
-        rec[src]=false;
-        return false;
-    }
-    bool canFinish(int n, vector<vector<int>>& edges) {
-        vector<bool> vis(n,false),rec(n,false);
-       for( int i =0 ;i<n ;i++){
-        if(!vis[i]){
-            if(isCycle(i,edges,vis,rec)){
-                return false;
-            }
-        }
-       }
-       return true;
+        return processed==n;
+
     }
 };
