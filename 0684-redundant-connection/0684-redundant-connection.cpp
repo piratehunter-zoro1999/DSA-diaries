@@ -7,7 +7,7 @@ public:
      for(int v : adj[src]){
         if(!vis[v]){
             if(dfs(adj,v,des,vis)) return true;
-        }else if(v==des) return true;
+        }
      }
      return false;
     }
