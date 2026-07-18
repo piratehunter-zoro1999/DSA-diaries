@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
 | ------- |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
+## Hash Table
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## String
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
