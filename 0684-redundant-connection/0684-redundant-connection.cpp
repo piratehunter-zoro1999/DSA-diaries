@@ -1,34 +1,53 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>> &adj,int src ,int des,vector<bool>&vis){
-        if(src == des) return true;
-     vis[src]=true;
+    vector<int> parent;
+    vector<int> size;
+ 
 
-     for(int v : adj[src]){
-        if(!vis[v]){
-            if(dfs(adj,v,des,vis)) return true;
-        }
-     }
-     return false;
+    int find(int x){
+        if(parent[x]==x) return x;
+
+        return parent[x]=find(parent[x]);
     }
+
+    void Union(int a, int b){
+        int p1 = find(a);
+        int p2 = find(b);
+
+        if(p1 == p2) return;
+
+        if(size[p1]>=size[p2]){
+            parent[p2]=p1;
+            size[p1]+=size[p2];
+
+        }else{
+            parent[p1]=p2;
+            size[p2]+=size[p1];
+        }
+    }
+
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         
         int n = edges.size();
 
-        vector<vector<int>>adj(n+1);
+         parent.resize(n+1);
+       size.assign(n+1,1);
+
+       for( int i=0;i<=n;i++){
+        parent[i]=i;
+       }
+        
         
 
         for(auto e : edges){
             int u = e[0];
             int v = e[1];
             
-            vector<bool> vis(n+1,0);
-            if(dfs(adj,u,v,vis)){
-                return {u,v};
-            } 
+            if(find(u)==find(v)){
+                return e;
+            }
 
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            Union(u,v);
         }
 
        return {};
