@@ -21,10 +21,12 @@ public:
                   int u = x+d.first;
                   int v =y+d.second;
                 
-                if(u==n-1 && v==n-1){
-                    return ++count;
-                }
+                
+                
                   if(u>=0 && v>=0 && u<n && v<n && grid[u][v]==0){
+                    if(u==n-1 && v==n-1){
+                    return ++count;
+                    }
                     q.push({u,v});
                     grid[u][v]=1;
                   }
