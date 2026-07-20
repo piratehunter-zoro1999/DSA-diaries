@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
