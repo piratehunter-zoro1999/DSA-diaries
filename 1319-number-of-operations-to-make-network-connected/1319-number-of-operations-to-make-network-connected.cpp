@@ -1,43 +1,51 @@
 class Solution {
-public: 
-    void dfs(int src,vector<vector<int>> &adj,vector<bool> &vis){
-      
-      vis[src]=true;
+public:
+vector<int> parent;
+vector<int> size;
 
-      for(int v : adj[src]){
+int find(int x){
+    if(parent[x]==x) return x;
 
-        if(!vis[v]){
-            dfs(v,adj,vis);
-        }
-      }
-      
+    return parent[x]=find(parent[x]);
+}
+
+void Union(int a ,int b){
+    int p1 = find(a);
+    int p2= find(b);
+
+    if(p1 == p2) return;
+
+    if(size[p1]>=size[p2]){
+        parent[p2]=p1;
+        size[p1]+=size[p2];
+    }else{
+        parent[p1]=p2;
+        size[p2]+=size[p1];
     }
+}
     int makeConnected(int n, vector<vector<int>>& connections) {
-        
         int e=connections.size();
 
         if(e<n-1) return -1;
 
-        vector<vector<int>> adj(n);
-
-        for(auto e : connections){
-            int u = e[0];
-            int v = e[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        parent.resize(n);
+        size.assign(n,1);
+        for(int i =0 ;i<n ;i++){
+            parent[i]=i;
         }
+
+        for(auto &p : connections){
+
+            Union(p[0],p[1]);
+            
+        }
+
+    int set=0;
+    for(int i=0 ;i<n;i++){
+        if(parent[i]==i) set++;
+    }   
+
+    return set -1; 
         
-        vector<bool> vis(n,false);
-        int count=0;
-        for(int i=0;i<n;i++){
-             if(!vis[i]){
-                dfs(i,adj,vis);
-                count++;
-             }
-        }
-
-      return count -1;
-
     }
 };
