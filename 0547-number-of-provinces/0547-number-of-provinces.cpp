@@ -43,7 +43,7 @@ public:
         }
     int ans=0;
         for(int i=0;i<n;i++){
-          if(parent[i]==i) ans++;
+          if(find(i)==i) ans++;
         }
 
         return ans;
