@@ -42,7 +42,7 @@ void Union(int a ,int b){
 
     int set=0;
     for(int i=0 ;i<n;i++){
-        if(parent[i]==i) set++;
+        if(find(i)==i) set++;
     }   
 
     return set -1; 
