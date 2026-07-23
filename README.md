@@ -123,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
