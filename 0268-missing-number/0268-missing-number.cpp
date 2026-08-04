@@ -4,7 +4,7 @@ public:
         int n = nums.size();
 
         for(int i =0 ;i<n ;i++){
-            while(nums[i]!=n && nums[i]!=i){
+            while(nums[i]!=n && nums[i]!=i && nums[i] != nums[nums[i]]){ // if it have duplicate values
                 swap(nums[i],nums[nums[i]]);
             }
         }
