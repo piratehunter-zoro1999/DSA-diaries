@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 ## Math
@@ -195,13 +198,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
