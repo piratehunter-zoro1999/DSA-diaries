@@ -9,9 +9,9 @@ public:
         
         for(int i=1;i<n;i++){
            if(ans.back().back() >=intervals[i][0] && ans.back().back() < intervals[i][1]){
-            auto temp = {ans.back().front(),intervals[i][1]};
-            ans.pop_back();
-            ans.push_back(temp);
+            
+            ans.back()[1]=intervals[i][1];
+            
            }else if(ans.back().back()< intervals[i].back()){
             ans.push_back(intervals[i]);
            }
