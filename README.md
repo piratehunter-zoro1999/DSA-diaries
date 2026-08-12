@@ -124,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -259,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
