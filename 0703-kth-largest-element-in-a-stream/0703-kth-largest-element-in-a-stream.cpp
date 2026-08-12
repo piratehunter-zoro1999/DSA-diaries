@@ -9,9 +9,7 @@ public:
         this->nums=nums;
         
         for(int i : nums ){
-            pq.push(i);
-
-            if(pq.size() > k) pq.pop();
+            add(i);
 
         }
     }
