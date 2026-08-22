@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -303,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
