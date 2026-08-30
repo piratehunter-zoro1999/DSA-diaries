@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
+| [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -320,8 +321,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
