@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
