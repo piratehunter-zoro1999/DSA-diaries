@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
