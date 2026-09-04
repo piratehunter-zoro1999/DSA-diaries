@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
