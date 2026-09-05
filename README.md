@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
+| [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0221-maximal-square) |
+| [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0931-minimum-falling-path-sum) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
