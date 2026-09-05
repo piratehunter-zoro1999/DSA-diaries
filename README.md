@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
+| [1143-longest-common-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2390-removing-stars-from-a-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
