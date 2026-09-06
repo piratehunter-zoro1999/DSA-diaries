@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
