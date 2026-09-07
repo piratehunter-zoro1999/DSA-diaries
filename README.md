@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
