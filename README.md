@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0684-redundant-connection) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -377,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
