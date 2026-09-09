@@ -6,10 +6,10 @@ public:
         dp[0]=0;
         
             for(int i=1;i<n+1;i++){
-                for(int j=1;j<=sqrt(n);j++){
-                    if(j*j<=i){
+                for(int j=1;j*j<=i;j++){
+            
                         dp[i]=min(dp[i],dp[i-j*j]+1);
-                    }
+                    
                 }
             }
 
