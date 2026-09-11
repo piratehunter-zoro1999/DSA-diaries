@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0518-coin-change-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0518-coin-change-ii) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
@@ -390,9 +392,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
