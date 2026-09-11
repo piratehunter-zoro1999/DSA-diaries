@@ -1,8 +1,8 @@
 class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
-        const long long LIMIT = INT_MAX;
-        vector<long long> dp(target + 1, 0);
+
+        vector<unsigned int> dp(target + 1, 0);
 
         dp[0] = 1;
 
@@ -11,12 +11,10 @@ public:
                 if(num <= i) {
                     dp[i] += dp[i - num];
 
-                    if(dp[i] > LIMIT)
-                        dp[i] = LIMIT;
                 }
             }
         }
 
-        return (int)dp[target];
+        return dp[target];
     }
 };
