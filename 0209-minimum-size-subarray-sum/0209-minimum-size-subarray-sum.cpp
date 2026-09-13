@@ -9,9 +9,9 @@ public:
             
            
 
-           if(sum<target){ 
-              sum+=nums[i];
-           }
+           
+            sum+=nums[i];
+           
            
             while(sum>=target){
              len=min(len,i-j+1);
