@@ -4,21 +4,22 @@ public:
         
         priority_queue<int> pq;
 
-        for(auto & it : stones){
-            pq.push(it);
+        for(int s : stones){
+            pq.push(s);
         }
 
         while(pq.size()>1){
-            int x = pq.top();
+
+            int y=pq.top();
             pq.pop();
-            int y = pq.top();
+            int x=pq.top();
             pq.pop();
 
-            if(y<x){
-                pq.push(x-y);
+            if(y-x != 0){
+                pq.push(y-x);
             }
         }
 
-        return pq.size()==0?0:pq.top();
+        return pq.empty()?0:pq.top();
     }
 };
