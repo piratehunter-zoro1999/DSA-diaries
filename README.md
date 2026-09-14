@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
+| [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0881-boats-to-save-people) |
 ## Math
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1046-last-stone-weight) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
