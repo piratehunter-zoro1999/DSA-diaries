@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0130-surrounded-regions) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
