@@ -1,57 +1,60 @@
 class Solution {
 public:
+    
     int orangesRotting(vector<vector<int>>& grid) {
-        int m= grid.size();
+
+        int m = grid.size();
         int n = grid[0].size();
-        queue<pair<int,int>> q;
         
-        bool flag=false;
-        for(int i=0;i<m;i++){
+        queue<pair<pair<int,int>,int>> q;
+        vector<vector<bool>> vis(m,(vector<bool> (n,false)));
+
+
+        for(int i =0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
-                    q.push({i,j});
+                    q.push({{i,j},0});
+                    vis[i][j]=true;
                 }
-                if(grid[i][j]==1) flag=true;
             }
         }
-
-        if(q.size()==0 && flag ) return -1;
-        if(!flag) return 0;
-
-        int count=-1;
+         int ans=0;
         while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                auto p = q.front();
-                q.pop();
+            int i = q.front().first.first;
+            int j = q.front().first.second;
+            int time=q.front().second;
 
-                int x = p.first;
-                int y = p.second;
+            q.pop();
+            
+            ans=max(ans,time);
 
-                vector<pair<int,int>> dir ={{x+1,y},{x-1,y},{x,y+1},{x,y-1}};
-                for(auto d : dir){
-                    if(d.first>=0 && d.first<m && d.second<n && d.second>=0){
-                        if(grid[d.first][d.second]==1){
-                            grid[d.first][d.second]=2;
-                            q.push({d.first,d.second});
-                        }
-                    }
-                }
-
+            if(i-1>=0 && !vis[i-1][j] && grid[i-1][j]==1){
+                q.push({{i-1,j},time+1});
+                vis[i-1][j]=true;
             }
-            count++;
+            if(j-1>=0 && !vis[i][j-1] && grid[i][j-1]==1){
+                q.push({{i,j-1},time+1});
+                vis[i][j-1]=true;
+            }
+            if(i+1<m && !vis[i+1][j] && grid[i+1][j]==1){
+                q.push({{i+1,j},time+1});
+                vis[i+1][j]=true;
+            }
+            if(j+1<n && !vis[i][j+1] && grid[i][j+1]==1){
+                q.push({{i,j+1},time+1});
+                vis[i][j+1]=true;
+            }
 
         }
 
-        
-        for(int i=0;i<m;i++){
+          for(int i =0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]==1){
+                if(grid[i][j]==1 && !vis[i][j]){
                    return -1;
                 }
             }
         }
 
-        return count;
+        return ans;
     }
 };
