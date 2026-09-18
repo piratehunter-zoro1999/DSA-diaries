@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 ## Backtracking
 |  |
 | ------- |
