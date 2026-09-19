@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0221-maximal-square) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -426,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0209-minimum-size-subarray-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
