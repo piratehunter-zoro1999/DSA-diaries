@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
