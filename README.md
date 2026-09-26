@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0684-redundant-connection) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Hash Table
 |  |
