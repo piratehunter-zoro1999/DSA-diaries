@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Hash Table
 |  |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
