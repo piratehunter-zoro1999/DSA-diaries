@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0130-surrounded-regions) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0199-binary-tree-right-side-view) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
