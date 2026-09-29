@@ -24,9 +24,9 @@ public:
         while(!q.empty()){
             int size=q.size();
             while(size--){
-                
+                if(size==0) ans.push_back(q.front()->val);
                  TreeNode*  curr=q.front();
-                 if(size==0) ans.push_back(curr->val);
+                 
                  q.pop();
 
                  if(curr->left!=NULL) q.push(curr->left);
