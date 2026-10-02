@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0560-subarray-sum-equals-k) |
 ## Brute-Force Search
 |  |
 | ------- |
