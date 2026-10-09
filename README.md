@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 | [2390-removing-stars-from-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0881-boats-to-save-people) |
+| [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 ## Math
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 ## Brute-Force Search
 |  |
 | ------- |
