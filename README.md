@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1109-corporate-flight-bookings) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1854-maximum-population-year](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1854-maximum-population-year) |
 | [1905-count-sub-islands](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1905-count-sub-islands) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
+| [1854-maximum-population-year](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1854-maximum-population-year) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1109-corporate-flight-bookings) |
+| [1854-maximum-population-year](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1854-maximum-population-year) |
 ## Brute-Force Search
 |  |
 | ------- |
