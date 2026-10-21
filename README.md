@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0279-perfect-squares) |
 | [1137-n-th-tribonacci-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1137-n-th-tribonacci-number) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0881-boats-to-save-people) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
