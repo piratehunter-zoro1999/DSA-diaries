@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
