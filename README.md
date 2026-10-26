@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0547-number-of-provinces) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Hash Table
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0583-delete-operation-for-two-strings) |
