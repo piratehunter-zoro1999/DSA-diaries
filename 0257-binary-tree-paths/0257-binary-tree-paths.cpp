@@ -14,13 +14,13 @@ public:
     void dfs(TreeNode* root,string temp,vector<string> &ans){
 
         if(root == NULL) return; 
+        if(!temp.empty()){
+            temp+="->";
+        }
 
-        temp+=to_string(root->val)+"->";
+        temp+=to_string(root->val);
 
         if(root->left ==NULL && root->right ==NULL){
-            temp.pop_back();
-            temp.pop_back();
-            
             ans.push_back(temp);
             return;
         }
