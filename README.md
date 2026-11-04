@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0881-boats-to-save-people) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
