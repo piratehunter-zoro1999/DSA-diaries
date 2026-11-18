@@ -4,7 +4,7 @@ public:
         int n = nums.size();
 
         int i=0;
-        double sum=0;
+        int sum=0;
         int j=0;
 
         while(i<k){
@@ -12,17 +12,15 @@ public:
            i++;
         }
 
-        double avg=sum/k;
-
+       int maxSum=sum;
         while(i<n){
             sum=sum+nums[i]-nums[j];
             j++;
             i++;
-
-            avg=max(avg,sum/k);
+            maxSum=max(sum,maxSum);
         }
 
-        return avg;
+        return (double) maxSum/k;
 
     }
 };
