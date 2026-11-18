@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -526,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
