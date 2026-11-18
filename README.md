@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0392-is-subsequence) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
