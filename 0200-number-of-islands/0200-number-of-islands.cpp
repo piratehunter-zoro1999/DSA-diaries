@@ -40,6 +40,8 @@ public:
     }
 
     int numIslands(vector<vector<char>>& grid) {
+
+        if(grid.empty()) return 0;
         
         int m = grid.size();
         int n = grid[0].size();
