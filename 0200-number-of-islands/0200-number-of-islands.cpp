@@ -1,13 +1,13 @@
 class Solution {
 public:
-    queue<pair<int,int>> q;
+    
     void bfs(vector<vector<char>>& grid,int i,int j){
-
+       queue<pair<int,int>> q;
          int m = grid.size();
         int n = grid[0].size();
 
 
-        if(i<0 || j<0 || i>=m || j>=n || grid[i][j] =='0') return;
+        ;
 
         q.push({i,j});
         grid[i][j]='0';
@@ -21,7 +21,19 @@ public:
          q.pop();
 
          for(auto [dx,dy] : dir){
-            bfs(grid,i+dx,j+dy);
+            int nx =x+dx;
+            int ny =y+dy;
+
+            if(nx<0 || ny<0 || nx>=m || ny>=n || grid[nx][ny] =='0'){
+                continue;
+            }else{
+
+            
+                q.push({nx,ny});
+                grid[nx][ny]='0';
+
+            }
+        
          }
 
         }
