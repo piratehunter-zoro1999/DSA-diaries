@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0740-delete-and-earn) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
