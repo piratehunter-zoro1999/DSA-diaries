@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0797-all-paths-from-source-to-target) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piratehunter-zoro1999/DSA_diaries/tree/master/0287-find-the-duplicate-number) |
